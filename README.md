@@ -1,4 +1,4 @@
-# Image_Enhancementre
+# Image_Enhancement
 
 ## General 
 - https://github.com/baidut/OpenCE
@@ -25,3 +25,7 @@ Densely Connected Pyramid Dehazing Network
 ## super-resolution
 - https://github.com/thstkdgus35/EDSR-PyTorch
 PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
+- https://github.com/icpm/super-resolution
+A collection of super-resolution models & algorithms
+- https://github.com/nagadomi/waifu2x
+waifu2x. Image Super-Resolution for Anime-Style Art
