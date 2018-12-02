@@ -1,10 +1,12 @@
 # Image_Enhancement
 
-## General 
+## Contrast Enhancement 
 - https://github.com/baidut/OpenCE
 Contrast Enhancement Techniques for low-light images
 - https://github.com/IsaacChanghau/OptimizedImageEnhance/tree/master/matlab
 Fast Optimized Image/Video Enhancement Methods in Matlab
+- https://github.com/yearway/CDE
+An unofficial implementation of the "Content-Aware Dark Image Enhancement Through Channel Division".
 
 ## Reflection removal
 - https://github.com/abhijith97/Reflection-Removal
