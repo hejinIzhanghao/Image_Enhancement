@@ -7,6 +7,8 @@ Contrast Enhancement Techniques for low-light images
 Fast Optimized Image/Video Enhancement Methods in Matlab
 - https://github.com/yearway/CDE
 An unofficial implementation of the "Content-Aware Dark Image Enhancement Through Channel Division".
+- https://xueyangfu.github.io/projects/icip2014.html
+implementation of "A retinex-based enhancing approach for single underwater image"
 
 ## Reflection removal
 - https://github.com/abhijith97/Reflection-Removal
