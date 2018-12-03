@@ -33,3 +33,7 @@ PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image S
 A collection of super-resolution models & algorithms
 - https://github.com/nagadomi/waifu2x
 waifu2x. Image Super-Resolution for Anime-Style Art
+
+## Optimization
+- https://github.com/ermig1979/Simd
+C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. 
