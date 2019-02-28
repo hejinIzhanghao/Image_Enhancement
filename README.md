@@ -9,6 +9,10 @@ Fast Optimized Image/Video Enhancement Methods in Matlab
 An unofficial implementation of the "Content-Aware Dark Image Enhancement Through Channel Division".
 - https://xueyangfu.github.io/projects/icip2014.html
 implementation of "A retinex-based enhancing approach for single underwater image"
+- https://github.com/mtobeiyf/CEIQ
+Matlab code for "No-Reference Quality Assessment of Contrast-Distorted Images using Contrast Enhancement"
+- https://github.com/ravimalb/suace
+Speeded Up Adaptive Contrast Enhancement (SUACE); an OpenCV based contrast enhancement technique. 
 
 ## Reflection removal
 - https://github.com/abhijith97/Reflection-Removal
