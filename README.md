@@ -13,6 +13,8 @@ implementation of "A retinex-based enhancing approach for single underwater imag
 Matlab code for "No-Reference Quality Assessment of Contrast-Distorted Images using Contrast Enhancement"
 - https://github.com/ravimalb/suace
 Speeded Up Adaptive Contrast Enhancement (SUACE); an OpenCV based contrast enhancement technique. 
+- https://github.com/inhail/HDR-infrared-images-detail-enhancement
+matlab code for 2016 HDR infrared images detail enhancement based on local edge preserving filter
 
 ## Reflection removal
 - https://github.com/abhijith97/Reflection-Removal
