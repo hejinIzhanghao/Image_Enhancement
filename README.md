@@ -40,6 +40,18 @@ A collection of super-resolution models & algorithms
 - https://github.com/nagadomi/waifu2x
 waifu2x. Image Super-Resolution for Anime-Style Art
 
+## HDR & Tonemapping
+- https://github.com/banterle/HDR_Toolbox
+HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
+- https://github.com/Ockhius/hdr_tonemapping_fattal02
+Gradient Domain High Dynamic Range Compression.
+- https://github.com/liuguoyou/HDR-Fast-Local-Laplacian
+HDR recovering and tonemapping using fast local laplacian approach 
+- https://github.com/MarcioCerqueira/HDRI
+Some algorithms for High Dynamic Range Imaging in C++
+- https://github.com/cnr-isti-vclab/piccante
+a C++11 image processing library aimed to provide structures and functionalities for enabling both High Dynamic Range (HDR) and standard imaging.
+
 ## Optimization
 - https://github.com/ermig1979/Simd
 C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. 
