@@ -41,6 +41,8 @@ A collection of super-resolution models & algorithms
 waifu2x. Image Super-Resolution for Anime-Style Art
 
 ## HDR & Tonemapping
+- https://github.com/cadik/TMS
+Tone Mapping Studio with many algo implementation.
 - https://github.com/banterle/HDR_Toolbox
 HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
 - https://github.com/Ockhius/hdr_tonemapping_fattal02
@@ -51,6 +53,12 @@ HDR recovering and tonemapping using fast local laplacian approach
 Some algorithms for High Dynamic Range Imaging in C++
 - https://github.com/cnr-isti-vclab/piccante
 a C++11 image processing library aimed to provide structures and functionalities for enabling both High Dynamic Range (HDR) and standard imaging.
+- https://github.com/ishtiaqrasool/IEEE-TIE-2018-TMO
+Implementation of "A new tone-mapping technique based on histogram using a sensitivity model of the human visual system"
+- https://github.com/humplee/EECE_541_ANTIFLK
+Based on stelios's work. Removes flickering on brightness created by Histogram Equalization based HDR Tone Mapping. 
+- https://github.com/dvolgyes/TMO4CT
+Tone mapping for CT images 
 
 ## Optimization
 - https://github.com/ermig1979/Simd
