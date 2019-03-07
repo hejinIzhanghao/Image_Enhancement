@@ -58,7 +58,15 @@ Implementation of "A new tone-mapping technique based on histogram using a sensi
 - https://github.com/humplee/EECE_541_ANTIFLK
 Based on stelios's work. Removes flickering on brightness created by Histogram Equalization based HDR Tone Mapping. 
 - https://github.com/dvolgyes/TMO4CT
-Tone mapping for CT images 
+Tone mapping for CT images
+- http://www.cs.huji.ac.il/~danix/epd/
+Edge-Preserving Decompositions for Multi-Scale Tone and Detail Manipulation
+- hamburgerlady/democratic-tonemap
+Matlab/mex implementation of HDR image tone mapping described in "Democratic Tone Mapping Using Optimal K-means Clustering", M. Oskarsson, in proc SCIA'15
+- https://github.com/szhang67/HDR-and-Backlight-Paper-Collection
+Collections of LDR-HDR tone mapping and inverse tone mapping papers as well as papers focuses on backlight correction 
+- https://github.com/odiofan/L1L0_TM-CVPR2018
+Codes for "A Hybrid L1-L0 Layer Decomposition Model for Tone Mapping," in CVPR 2018
 
 ## Optimization
 - https://github.com/ermig1979/Simd
