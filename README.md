@@ -15,6 +15,8 @@ Matlab code for "No-Reference Quality Assessment of Contrast-Distorted Images us
 Speeded Up Adaptive Contrast Enhancement (SUACE); an OpenCV based contrast enhancement technique. 
 - https://github.com/inhail/HDR-infrared-images-detail-enhancement
 matlab code for 2016 HDR infrared images detail enhancement based on local edge preserving filter
+- https://github.com/utpal0401/Wavelength-Compensation-and-Dehazing
+Underwater-Image-Enhancement-using-Wavelength-Compensation-and-Dehazing 
 
 ## Reflection removal
 - https://github.com/abhijith97/Reflection-Removal
