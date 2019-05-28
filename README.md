@@ -33,6 +33,8 @@ Underwater. Implementation of "Enhancing underwater images and videos by fusion 
 Densely Connected Pyramid Dehazing Network
 
 ## super-resolution
+- https://github.com/YapengTian/Single-Image-Super-Resolution
+A collection of high-impact and state-of-the-art SR methods
 - https://github.com/thstkdgus35/EDSR-PyTorch
 PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
 - https://github.com/icpm/super-resolution
