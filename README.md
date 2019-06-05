@@ -84,6 +84,12 @@ Collections of LDR-HDR tone mapping and inverse tone mapping papers as well as p
 - https://github.com/odiofan/L1L0_TM-CVPR2018
 Codes for "A Hybrid L1-L0 Layer Decomposition Model for Tone Mapping," in CVPR 2018
 
+## coloring
+- https://github.com/emilwallner/Coloring-greyscale-images
+Coloring black and white images with deep learning with Keras.
+- https://github.com/jantic/DeOldify
+A Deep Learning based project for colorizing and restoring old images with pytorch and fastai.
+
 ## Optimization
 - https://github.com/ermig1979/Simd
 C++ image processing library with using of SIMD: SSE, SSE2, SSE3, SSSE3, SSE4.1, SSE4.2, AVX, AVX2, AVX-512, VMX(Altivec) and VSX(Power7), NEON for ARM. 
