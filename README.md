@@ -49,6 +49,8 @@ A collection of super-resolution models & algorithms
 waifu2x. Image Super-Resolution for Anime-Style Art
 - https://github.com/shivsurya/superResolution_sparseRepresentation
 Matlab implementation of super-resolution algorithm via sparse representation of Raw patches in images 
+- https://github.com/titu1994/Image-Super-Resolution
+Implementation of Image Super Resolution CNN in Keras from the paper Image Super-Resolution Using Deep Convolutional Networks.Also contains models that outperforms the above mentioned model, termed Expanded Super Resolution, Denoiseing Auto Encoder, SRCNN which outperforms both of the above models and Deep Denoise SR, which with certain limitations, outperforms all of the above.
 
 ## HDR & Tonemapping
 - https://github.com/cadik/TMS
