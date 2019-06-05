@@ -37,12 +37,18 @@ Densely Connected Pyramid Dehazing Network
 ## super-resolution
 - https://github.com/YapengTian/Single-Image-Super-Resolution
 A collection of high-impact and state-of-the-art SR methods
+- https://github.com/david-gpu/srez
+Image super-resolution through deep learning (DCGAN)
 - https://github.com/thstkdgus35/EDSR-PyTorch
 PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution' (CVPRW 2017)
+- https://github.com/leftthomas/ESPCN
+A PyTorch implementation of ESPCN based on CVPR 2016 paper "Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network"
 - https://github.com/icpm/super-resolution
 A collection of super-resolution models & algorithms
 - https://github.com/nagadomi/waifu2x
 waifu2x. Image Super-Resolution for Anime-Style Art
+- https://github.com/shivsurya/superResolution_sparseRepresentation
+Matlab implementation of super-resolution algorithm via sparse representation of Raw patches in images 
 
 ## HDR & Tonemapping
 - https://github.com/cadik/TMS
