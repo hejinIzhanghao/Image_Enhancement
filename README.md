@@ -51,6 +51,10 @@ waifu2x. Image Super-Resolution for Anime-Style Art
 Matlab implementation of super-resolution algorithm via sparse representation of Raw patches in images 
 - https://github.com/titu1994/Image-Super-Resolution
 Implementation of Image Super Resolution CNN in Keras from the paper Image Super-Resolution Using Deep Convolutional Networks.Also contains models that outperforms the above mentioned model, termed Expanded Super Resolution, Denoiseing Auto Encoder, SRCNN which outperforms both of the above models and Deep Denoise SR, which with certain limitations, outperforms all of the above.
+- https://github.com/falsr/FALSR
+Fast, Accurate and Lightweight Super-Resolution models 
+- https://github.com/jiny2001/dcscn-super-resolution
+A tensorflow implementation of "Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network", a deep learning based Single-Image Super-Resolution (SISR) model.
 
 ## HDR & Tonemapping
 - https://github.com/cadik/TMS
