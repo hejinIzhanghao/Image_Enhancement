@@ -5,6 +5,8 @@
 Contrast Enhancement Techniques for low-light images
 - https://github.com/IsaacChanghau/OptimizedImageEnhance/tree/master/matlab
 Fast Optimized Image/Video Enhancement Methods in Matlab
+- https://github.com/AndyHuang1995/Image-Contrast-Enhancement
+Python implementation of "A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework", CAIP2017 
 - https://github.com/yearway/CDE
 An unofficial implementation of the "Content-Aware Dark Image Enhancement Through Channel Division".
 - https://xueyangfu.github.io/projects/icip2014.html
@@ -89,6 +91,24 @@ Codes for "A Hybrid L1-L0 Layer Decomposition Model for Tone Mapping," in CVPR 2
 Coloring black and white images with deep learning with Keras.
 - https://github.com/jantic/DeOldify
 A Deep Learning based project for colorizing and restoring old images with pytorch and fastai.
+- https://github.com/Rm1n90/Colorizing-Infrared-Images
+Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples - CVPRw2019. No codes yet.
+
+## image fusion
+- https://github.com/zhengliu6699/imageFusionMetrics
+Matlab code for image fusion metrics of "Objective assessment of multiresolution image fusion algorithms for context enhancement in Night vision: A comparative study", 2012, PAMI
+- https://github.com/hli1221/imagefusion_deeplearning
+Infrared and visible image fusion using deep learning framework(multi-layers strategy) 
+- https://github.com/hli1221/imagefusion_Infrared_visible_latlrr
+infrared anf visible image fusion using latent low-rank representation 
+- https://github.com/hli1221/imagefusion_densefuse
+Infrared and visible image fusion using CNN layers and dense block architecture.
+- https://github.com/uzeful/Infrared-and-Visual-Image-Fusion-via-Infrared-Feature-Extraction-and-Visual-Information-Preservation
+Matlab code for "Infrared and Visual Image Fusion through Infrared Feature Extraction and Visual Information Preservation"
+- https://github.com/JinleiMa/Image-fusion-with-VSM-and-WLS
+Infrared and visible image fusion based on visual saliency map and weighted least square optimization 
+- https://github.com/Chang-Li-HFUT/FusionGAN
+FusionGAN: A generative adversarial network for infrared and visible image fusion 
 
 ## Optimization
 - https://github.com/ermig1979/Simd
