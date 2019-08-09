@@ -93,6 +93,12 @@ Coloring black and white images with deep learning with Keras.
 A Deep Learning based project for colorizing and restoring old images with pytorch and fastai.
 - https://github.com/Rm1n90/Colorizing-Infrared-Images
 Colorizing Near Infrared Images through a Cyclic Adversarial Approach of Unpaired Samples - CVPRw2019. No codes yet.
+- https://github.com/richzhang/colorization
+Automatic colorization using deep neural networks. "Colorful Image Colorization." ECCV, 2016.
+- https://github.com/satoshiiizuka/siggraph2016_colorization
+Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. SIGGRAPH 2016
+- https://github.com/ArkaJU/Image-Colorization-CycleGAN
+Colorization of grayscale images using CycleGAN in TensorFlow. 
 
 ## image fusion
 - https://github.com/zhengliu6699/imageFusionMetrics
