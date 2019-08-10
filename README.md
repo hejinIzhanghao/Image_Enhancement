@@ -99,6 +99,10 @@ Automatic colorization using deep neural networks. "Colorful Image Colorization.
 Code for the paper 'Let there be Color!: Joint End-to-end Learning of Global and Local Image Priors for Automatic Image Colorization with Simultaneous Classification'. SIGGRAPH 2016
 - https://github.com/ArkaJU/Image-Colorization-CycleGAN
 Colorization of grayscale images using CycleGAN in TensorFlow. 
+- https://github.com/jrosebr1/color_transfer
+Performs color transfer between two images. Loosely based on the "Color Transfer between Images" paper by Reinhard et al., 2001.
+- https://github.com/hangong/reinhard_color_transfer
+Matlab implementation of the paper: Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley, 'Color Transfer between Images'
 
 ## image fusion
 - https://github.com/zhengliu6699/imageFusionMetrics
