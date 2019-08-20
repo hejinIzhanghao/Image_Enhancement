@@ -54,9 +54,13 @@ Matlab implementation of super-resolution algorithm via sparse representation of
 - https://github.com/titu1994/Image-Super-Resolution
 Implementation of Image Super Resolution CNN in Keras from the paper Image Super-Resolution Using Deep Convolutional Networks.Also contains models that outperforms the above mentioned model, termed Expanded Super Resolution, Denoiseing Auto Encoder, SRCNN which outperforms both of the above models and Deep Denoise SR, which with certain limitations, outperforms all of the above.
 - https://github.com/falsr/FALSR
-Fast, Accurate and Lightweight Super-Resolution models 
+Fast, Accurate and Lightweight Super-Resolution models from xiaomi
 - https://github.com/jiny2001/dcscn-super-resolution
 A tensorflow implementation of "Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network", a deep learning based Single-Image Super-Resolution (SISR) model.
+- https://github.com/LoSealL/VideoSuperResolution
+A collection of state-of-the-art video or single-image super-resolution architectures, reimplemented in tensorflow. 
+- https://github.com/nmhkahn/CARN-pytorch
+CARN. Official implementation of Efficient Cascading Residual Network for SR 
 
 ## HDR & Tonemapping
 - https://github.com/cadik/TMS
