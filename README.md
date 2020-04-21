@@ -1,5 +1,9 @@
 # Image_Enhancement
 
+## Resources
+- https://github.com/dlut-dimt/Realworld-Underwater-Image-Enhancement-RUIE-Benchmark
+Real-world Underwater Enhancement: Challenging, Benchmark and Efficient Solutions
+
 ## Contrast Enhancement 
 - https://github.com/baidut/OpenCE
 Contrast Enhancement Techniques for low-light images
@@ -19,6 +23,10 @@ Speeded Up Adaptive Contrast Enhancement (SUACE); an OpenCV based contrast enhan
 matlab code for 2016 HDR infrared images detail enhancement based on local edge preserving filter
 - https://github.com/utpal0401/Wavelength-Compensation-and-Dehazing
 Underwater-Image-Enhancement-using-Wavelength-Compensation-and-Dehazing 
+- https://github.com/mgharbi/hdrnet
+An implementation of 'Deep Bilateral Learning for Real-Time Image Enhancement'
+- https://github.com/CQFIO/FastImageProcessing
+Fast Image Processing with Fully-Convolutional Networks 
 
 ## Reflection removal
 - https://github.com/abhijith97/Reflection-Removal
